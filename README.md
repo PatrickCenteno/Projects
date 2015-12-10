@@ -1,2 +1,2 @@
 # Projects
-Simple Projects that I have worked on Indepentently
+Simple Projects that I have worked on independently
